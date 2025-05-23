@@ -51,7 +51,7 @@ const HomeInfo = ({ currentStage }) => {
        Currently seeking opportunities to grow as a developer <br/> and contribute to impactful software projects.
       </p>
 
-      <Link to='/contact' className='neo-brutalism-white neo-btn'>
+      <Link to='/Contact' className='neo-brutalism-white neo-btn'>
         Contact
         <img src={arrow} alt='arrow' className='w-4 h-4 object-contain' />
       </Link>
